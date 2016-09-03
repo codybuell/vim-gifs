@@ -28,7 +28,7 @@ Recording
   - remain for: 2.0
   - fade out: 0.5
   - display area fully transparent
-  - source code pro 35pt
+  - source code pro 35pt #939393
   - position 0,0
   - size 640 x 100
 
