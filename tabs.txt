@@ -1,0 +1,19 @@
+Tabs
+====
+
+:tabnew        ->  open a new buffer in a new tab
+:tabnew [file] ->  open file in a new tab
+gt             ->  *GO TAB* next
+gT             ->  *GO TAB* previous
+{i}gt          ->  *GO TAB* i
+:tab ball      ->  place each open buffer in a new tab
+
+                   As you edit a bunch of different files and switch back and
+                   forth, as long as you don't close vim, all the files are
+                   actually still open in the buffer.  `:tab ball` places each
+                   open buffer into a tab.
+
+:tabmove {i}   ->  move the curret tab to position i
+:tabs          ->  list all tabs
+:tabonly       ->  close all tabs except the current
+
